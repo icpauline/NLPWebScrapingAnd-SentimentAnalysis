@@ -3,7 +3,7 @@
   1. To scrape reviews from Amazon Website for the product 'Fastack Ladies Watch'
   2. Perform Sentiment Ananlysis and Categorize Reviews into 'Positive' and 'Negative'
 ### Dataset:
-  Scrapped text data from Amazon
+  Scrapped reviews text data from Amazon
   
 ### Approach:
 #### Web Scraping using BeautifulSoup
